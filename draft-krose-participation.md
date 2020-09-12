@@ -28,7 +28,11 @@ informative:
 
 --- abstract
 
-TODO Abstract
+Full participation in the IETF has long required attendance at in-person meetings for a variety of reasons, only the most obvious of which is NomCom eligibility.
+In-person meeting attendance is known to be an effective way of fostering professional relationships that help create conditions in which such participants' proposals rise above the din and are seriously considered, a prerequisite for achieving rough consensus.
+In addition, in-person meetings result in serendipitous cross-pollination of ideas across working groups and areas through unofficial interactions such as hallway conversations, shared meals, and working group session tourism.
+The disruption of in-person meetings precipitated by the novel coronavirus has forced participants to alter the way they engage in day-to-day interactions, which has resulted in broad experimentation in models of effective participation.
+In putting both traditionally in-person meeting attendees and remote participants on a similar footing, it has also created an opportunity to reimagine IETF structures for more effective inclusion of remote participants as well as for more productive interactions, both in-person and online.
 
 --- middle
 
