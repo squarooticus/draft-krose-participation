@@ -13,7 +13,24 @@ Expires: 16 March 2021
 
 Abstract
 
-   TODO Abstract
+   Full participation in the IETF has long required attendance at in-
+   person meetings for a variety of reasons, only the most obvious of
+   which is NomCom eligibility.  In-person meeting attendance is known
+   to be an effective way of fostering professional relationships that
+   help create conditions in which such participants' proposals rise
+   above the din and are seriously considered, a prerequisite for
+   achieving rough consensus.  In addition, in-person meetings result in
+   serendipitous cross-pollination of ideas across working groups and
+   areas through unofficial interactions such as hallway conversations,
+   shared meals, and working group session tourism.  The disruption of
+   in-person meetings precipitated by the novel coronavirus has forced
+   participants to alter the way they engage in day-to-day interactions,
+   which has resulted in broad experimentation in models of effective
+   participation.  In putting both traditionally in-person meeting
+   attendees and remote participants on a similar footing, it has also
+   created an opportunity to reimagine IETF structures for more
+   effective inclusion of remote participants as well as for more
+   productive interactions, both in-person and online.
 
 Discussion Venues
 
@@ -30,6 +47,16 @@ Status of This Memo
 
    This Internet-Draft is submitted in full conformance with the
    provisions of BCP 78 and BCP 79.
+
+
+
+
+
+
+Rose                      Expires 16 March 2021                 [Page 1]
+
+Internet-Draft          Rethinking participation          September 2020
+
 
    Internet-Drafts are working documents of the Internet Engineering
    Task Force (IETF).  Note that other groups may also distribute
@@ -48,16 +75,6 @@ Copyright Notice
    Copyright (c) 2020 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
-
-
-
-
-
-Rose                      Expires 16 March 2021                 [Page 1]
-
-Internet-Draft          Rethinking participation          September 2020
-
-
    This document is subject to BCP 78 and the IETF Trust's Legal
    Provisions Relating to IETF Documents (https://trustee.ietf.org/
    license-info) in effect on the date of publication of this document.
@@ -71,9 +88,9 @@ Table of Contents
 
    1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
    2.  Conventions and Definitions . . . . . . . . . . . . . . . . .   2
-   3.  Security Considerations . . . . . . . . . . . . . . . . . . .   2
-   4.  IANA Considerations . . . . . . . . . . . . . . . . . . . . .   2
-   5.  Normative References  . . . . . . . . . . . . . . . . . . . .   2
+   3.  Security Considerations . . . . . . . . . . . . . . . . . . .   3
+   4.  IANA Considerations . . . . . . . . . . . . . . . . . . . . .   3
+   5.  Normative References  . . . . . . . . . . . . . . . . . . . .   3
    Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . .   3
    Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   3
 
@@ -88,6 +105,14 @@ Table of Contents
    "OPTIONAL" in this document are to be interpreted as described in BCP
    14 [RFC2119] [RFC8174] when, and only when, they appear in all
    capitals, as shown here.
+
+
+
+
+Rose                      Expires 16 March 2021                 [Page 2]
+
+Internet-Draft          Rethinking participation          September 2020
+
 
 3.  Security Considerations
 
@@ -104,16 +129,6 @@ Table of Contents
               DOI 10.17487/RFC2119, March 1997,
               <https://www.rfc-editor.org/info/rfc2119>.
 
-
-
-
-
-
-Rose                      Expires 16 March 2021                 [Page 2]
-
-Internet-Draft          Rethinking participation          September 2020
-
-
    [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
               2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
               May 2017, <https://www.rfc-editor.org/info/rfc8174>.
@@ -128,21 +143,6 @@ Author's Address
    Akamai Technologies, Inc.
 
    Email: krose@krose.org
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
