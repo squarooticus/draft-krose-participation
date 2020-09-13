@@ -4,8 +4,8 @@
 
 TODO Working Group                                               K. Rose
 Internet-Draft                                 Akamai Technologies, Inc.
-Intended status: Informational                         12 September 2020
-Expires: 16 March 2021
+Intended status: Informational                         13 September 2020
+Expires: 17 March 2021
 
 
       Rethinking IETF participation for productivity and inclusion
@@ -16,21 +16,24 @@ Abstract
    Full participation in the IETF has long required attendance at in-
    person meetings for a variety of reasons, only the most obvious of
    which is NomCom eligibility.  In-person meeting attendance is known
-   to be an effective way of fostering professional relationships that
-   help create conditions in which such participants' proposals rise
-   above the din and are seriously considered, a prerequisite for
-   achieving rough consensus.  In addition, in-person meetings result in
-   serendipitous cross-pollination of ideas across working groups and
-   areas through unofficial interactions such as hallway conversations,
-   shared meals, and working group session tourism.  The disruption of
-   in-person meetings precipitated by the novel coronavirus has forced
-   participants to alter the way they engage in day-to-day interactions,
-   which has resulted in broad experimentation in models of effective
-   participation.  In putting both traditionally in-person meeting
-   attendees and remote participants on a similar footing, it has also
-   created an opportunity to reimagine IETF structures for more
-   effective inclusion of remote participants as well as for more
-   productive interactions, both in-person and online.
+   to be an effective way of fostering professional relationships among
+   engineers, of easing socialization of proposals for standards work,
+   and of developing empathy for different viewpoints and thus of
+   encouraging compromise.  All of these help to create the conditions
+   in which rough compromise is possible.  In addition, in-person
+   meetings frequently result in serendipitous cross-pollination of
+   ideas across working groups and areas through unofficial interactions
+   such as hallway conversations, shared meals, and working group
+   session tourism.  The disruption of in-person meetings precipitated
+   by the novel coronavirus has forced participants to alter the way
+   they engage in day-to-day interactions, which has resulted in broad
+   experimentation in models of effective participation.  With both
+   traditionally in-person meeting attendees and remote participants
+   temporarily on an equal footing, universal remote collaboration has
+   created an opportunity to examine the effects and to use this new
+   understanding to reimagine IETF structures for more effective
+   inclusion of remote participants as well as for more productive
+   interactions overall, both in-person and online.
 
 Discussion Venues
 
@@ -50,10 +53,7 @@ Status of This Memo
 
 
 
-
-
-
-Rose                      Expires 16 March 2021                 [Page 1]
+Rose                      Expires 17 March 2021                 [Page 1]
 
 Internet-Draft          Rethinking participation          September 2020
 
@@ -68,7 +68,7 @@ Internet-Draft          Rethinking participation          September 2020
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 16 March 2021.
+   This Internet-Draft will expire on 17 March 2021.
 
 Copyright Notice
 
@@ -88,11 +88,12 @@ Table of Contents
 
    1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
    2.  Conventions and Definitions . . . . . . . . . . . . . . . . .   2
-   3.  Security Considerations . . . . . . . . . . . . . . . . . . .   3
-   4.  IANA Considerations . . . . . . . . . . . . . . . . . . . . .   3
-   5.  Normative References  . . . . . . . . . . . . . . . . . . . .   3
-   Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . .   3
-   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   3
+   3.  NomCom Membership . . . . . . . . . . . . . . . . . . . . . .   3
+   4.  Security Considerations . . . . . . . . . . . . . . . . . . .   3
+   5.  IANA Considerations . . . . . . . . . . . . . . . . . . . . .   3
+   6.  Normative References  . . . . . . . . . . . . . . . . . . . .   3
+   Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . .   4
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .   4
 
 1.  Introduction
 
@@ -108,30 +109,66 @@ Table of Contents
 
 
 
-
-Rose                      Expires 16 March 2021                 [Page 2]
+Rose                      Expires 17 March 2021                 [Page 2]
 
 Internet-Draft          Rethinking participation          September 2020
 
 
-3.  Security Considerations
+3.  NomCom Membership
 
-   TODO Security
+   Limiting NomCom membership to those who could afford to frequently
+   attend in-person meetings has long been considered a reasonable
+   barrier to ballot-stuffing.  That said, the traditional criteria may
+   be unrelated to the NomCom's history of excellence: it is not clear
+   that requiring in-person meeting attendance has had an instrumental
+   part in forming effective NomComs.  Furthermore, the traditional
+   criteria exclude some deeply-engaged participants that either cannot
+   or choose not to travel to in-person meetings.
 
-4.  IANA Considerations
+   The stakeholders in IETF work number in the billions, but only a
+   small subset are qualified to be involved in choosing the leadership
+   of a community whose focus is in driving consensus on narrowly-scoped
+   technical work.  Care must be taken to ensure that whatever replaces
+   the traditional criteria for NomCom eligibility preserves or improves
+   upon the excellence in judgment we have come to expect from the
+   NomCom in choosing leadership candidate slates that prioritize the
+   interests of internet users, while also better representing the full
+   set of participants who have skin in the game, whether or not they
+   attend in-person meetings.
+
+4.  Security Considerations
+
+   This document has no technical security considerations as enumerated
+   by [RFC3552].
+
+5.  IANA Considerations
 
    This document has no IANA actions.
 
-5.  Normative References
+6.  Normative References
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
               DOI 10.17487/RFC2119, March 1997,
               <https://www.rfc-editor.org/info/rfc2119>.
 
+   [RFC3552]  Rescorla, E. and B. Korver, "Guidelines for Writing RFC
+              Text on Security Considerations", BCP 72, RFC 3552,
+              DOI 10.17487/RFC3552, July 2003,
+              <https://www.rfc-editor.org/info/rfc3552>.
+
    [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
               2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
               May 2017, <https://www.rfc-editor.org/info/rfc8174>.
+
+
+
+
+
+Rose                      Expires 17 March 2021                 [Page 3]
+
+Internet-Draft          Rethinking participation          September 2020
+
 
 Acknowledgments
 
@@ -165,4 +202,23 @@ Author's Address
 
 
 
-Rose                      Expires 16 March 2021                 [Page 3]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rose                      Expires 17 March 2021                 [Page 4]
